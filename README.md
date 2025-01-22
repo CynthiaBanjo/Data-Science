@@ -21,7 +21,8 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Minimum%20Salary.png)
 ### Number of Architect Jobs
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Number%20of%20Architect%20Jobs.png)
-![Image Alt]()
+### Number of Engineering Jobs
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Number%20of%20Engineering%20jobs.png)
 ![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
