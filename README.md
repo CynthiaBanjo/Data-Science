@@ -5,8 +5,8 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Average%20SE%20salary.png)
 ### Average salary by company size
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Average%20Salary%20By%20Company%20Size.png)
-### Average salary
-![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Average%20Salary.png)
+### Average salary in USD
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Average%20Salary%20in%20USD.png)
 ### Conditional aggregation
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Conditiona%20Aggregation.png)
 ### Entry Standard Deviation
