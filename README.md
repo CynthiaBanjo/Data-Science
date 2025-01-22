@@ -19,7 +19,8 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Maximum%20Salary.png)
 ### Minimum Salary
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Minimum%20Salary.png)
-![Image Alt]()
+### Number of Architect Jobs
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Number%20of%20Architect%20Jobs.png)
 ![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
