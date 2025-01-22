@@ -29,4 +29,5 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Number%20of%20employees%20by%20salary%20ranges.png)
 ### SE Standard Deviation
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/SE%20Standard%20Deviation.png)
-![Image Alt]()
+### US Salary Over 400,000
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/US%20Salary%20over%20400000.png)
