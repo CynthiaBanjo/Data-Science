@@ -27,5 +27,6 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Number%20of%20Scientist%20Jobs.png)
 ### Number of Employees by Salary Ranges
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Number%20of%20employees%20by%20salary%20ranges.png)
-![Image Alt]()
+### SE Standard Deviation
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/SE%20Standard%20Deviation.png)
 ![Image Alt]()
