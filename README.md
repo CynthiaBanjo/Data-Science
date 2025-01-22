@@ -17,6 +17,11 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Highest%20Paying%20Locations.png)
 ### Maximum Salary
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Maximum%20Salary.png)
+### Minimum Salary
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Minimum%20Salary.png)
+![Image Alt]()
+![Image Alt]()
+![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
