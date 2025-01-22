@@ -1,19 +1,20 @@
 # Data-Science
-### Average entry salary
+### Average Entry Salary
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Average%20EN%20Salary.png)
-### Average senior salary
+### Average Senior Salary
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Average%20SE%20salary.png)
-### Average salary by company size
+### Average Salary by Company Size
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Average%20Salary%20By%20Company%20Size.png)
-### Average salary in USD
+### Average Salary in USD
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Average%20Salary%20in%20USD.png)
-### Conditional aggregation
+### Conditional Aggregation
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Conditiona%20Aggregation.png)
 ### Entry Standard Deviation
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/EN%20Standard%20Deviation.png)
 ### Filtering by Senior Position
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Filtering%20by%20Senior%20Position.png)
-![Image Alt]()
+### Highest Paying Locations
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Highest%20Paying%20Locations.png)
 ![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
