@@ -7,7 +7,8 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Average%20Salary%20By%20Company%20Size.png)
 ### Average salary
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Average%20Salary.png)
-![Image Alt]()
+### Conditional aggregation
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Conditiona%20Aggregation.png)
 ![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
