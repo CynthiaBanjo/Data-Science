@@ -9,7 +9,8 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Average%20Salary.png)
 ### Conditional aggregation
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Conditiona%20Aggregation.png)
-![Image Alt]()
+### Entry Standard Deviation
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/EN%20Standard%20Deviation.png)
 ![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
