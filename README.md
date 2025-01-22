@@ -23,7 +23,8 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Number%20of%20Architect%20Jobs.png)
 ### Number of Engineering Jobs
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Number%20of%20Engineering%20jobs.png)
-![Image Alt]()
+### Number of Scientist Jobs
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Number%20of%20Scientist%20Jobs.png)
 ![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
