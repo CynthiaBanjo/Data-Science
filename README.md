@@ -25,6 +25,7 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Number%20of%20Engineering%20jobs.png)
 ### Number of Scientist Jobs
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Number%20of%20Scientist%20Jobs.png)
-![Image Alt]()
+### Number of Employees by Salary Ranges
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Number%20of%20employees%20by%20salary%20ranges.png)
 ![Image Alt]()
 ![Image Alt]()
