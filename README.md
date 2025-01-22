@@ -15,7 +15,8 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Filtering%20by%20Senior%20Position.png)
 ### Highest Paying Locations
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Highest%20Paying%20Locations.png)
-![Image Alt]()
+### Maximum Salary
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Maximum%20Salary.png)
 ![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
