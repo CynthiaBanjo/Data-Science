@@ -11,6 +11,10 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Conditiona%20Aggregation.png)
 ### Entry Standard Deviation
 ![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/EN%20Standard%20Deviation.png)
+### Filtering by Senior Position
+![Image Alt](https://github.com/CynthiaBanjo/Data-Science/blob/main/Filtering%20by%20Senior%20Position.png)
+![Image Alt]()
+![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
